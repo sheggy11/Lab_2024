@@ -1,0 +1,4 @@
+PyInquirer==1.0.3
+requests==2.26.0
+sqlalchemy==1.4.31
+psycopg2-binary==2.9.1
